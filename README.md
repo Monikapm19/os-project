@@ -4,7 +4,7 @@
 
 ## Team Information
 - Student 1: Monika Pm
-- Student 2: (Add name + SRN)
+- Student 2: Nidhi L
 
 ---
 
